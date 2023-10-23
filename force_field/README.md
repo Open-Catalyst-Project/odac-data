@@ -10,5 +10,6 @@ This folder contains data and scripts related to the classical FF analysis perfo
 
 Two example calculations are provided: one for CO2 and one for H2O. System information is provided below. Both systems consist of promising MOFs as described in Tables S1 and S2. All topology (data.*) files were generated using LAMMPS Interface with the UFF4MOF force field and a cutoff of 0 Angstroms.
 
-CO2 example: Training set ID 172_393, system name: LEWZET_w_CO2_4
-H2O example: Training set ID 189_325, system name: PEGCAH_0.06_0_w_H2O_random_1
+CO2 example: Training set ID `172_393`, system name: `LEWZET_w_CO2_4`
+
+H2O example: Training set ID `189_325`, system name: `PEGCAH_0.06_0_w_H2O_random_1`

@@ -1,5 +1,3 @@
-# Open DAC 2023
-
 # Classical force field calculations
 
 This folder contains data and scripts related to the classical FF analysis performed in this work.

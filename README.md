@@ -1,3 +1,6 @@
+# REPO DEPRECATION: In 2024 the FAIR Chemistry team consolidated its various resources to improve release/testing/availability, and [ODAC moved to the fairchem repo](https://github.com/FAIR-Chem/fairchem/tree/main/src/fairchem/data/odac). You can find updated documentation on how to use the consolidated resources at https://fair-chem.github.io/
+
+
 # ODAC23 Dataset
 
 To download the ODAC23 dataset, please see the links here: [ODAC23 Dataset](https://github.com/FAIR-Chem/fairchem/blob/main/docs/core/datasets/odac.md)
